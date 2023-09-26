@@ -9,4 +9,4 @@ public class Kuku {
 		}
 	}
 }
-
+/*修正しました*/
